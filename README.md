@@ -1,11 +1,7 @@
 - 👋 Hi, I’m @SashaSagaz
 
-- 👀 I am interested in working in the field of information technology. I want to succeed in my profession and make the world a better place. I do websites, frontend. I am also learning the programming language C#. Soon I want to start confidently studying the creation of mobile applications.
-      I'm going to share some of my developments on my github.
+- 👀 Young and sexy, these are two things that can characterize me. And I'm also a developer of City-Foods.
       
-- 🌱 I'm currently learning to be a programmer.
-
-- 💞️ I want to start working for a company like Yandex in the future.
 
 - 📫 How to reach me:
       twitter   - twitter.com/sasha_sagaz
