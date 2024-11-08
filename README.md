@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SashaSagaz
 
-- 👀 Young and sexy, these are two things that can characterize me. And I'm also a developer of City-Foods.
+- 👀 Young and sexy, these are two things that can characterize me. And I'm also a developer of DePro.
       
 
 - 📫 How to reach me:
